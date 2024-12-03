@@ -17,6 +17,10 @@ we take a leading role in the development of the following projects:
   [AtomsIO.jl](https://github.com/mfherbst/AtomsIO.jl)
   or
   [GeometryOptimization.jl](https://github.com/JuliaMolSim/GeometryOptimization.jl/).
+- [AiidaDFTK.jl](https://github.com/epfl-matmat/AiidaDFTK.jl)
+  and [aiida-dftk](https://github.com/aiidaplugins/aiida-dftk):
+  Integration of [DFTK](https://dftk.org) with the [Aiida](https://aiida.net/)
+  high-throughput simulation framework.
 - [ReducedBasis.jl](https://github.com/mfherbst/ReducedBasis.jl):
   Reduced basis methods for parametrised eigenvalue problems
   (such as the ones occurring in modelling quantum spin systems)
